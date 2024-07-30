@@ -1,0 +1,24 @@
+{
+  "name": "poyo",
+  "version": "1.0.0",
+  "description": "poyo Game Engine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirby-org/poyo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kirby-org/poyo/issues"
+  },
+  "keywords": [
+    "poyo",
+    "game",
+    "engine"
+  ],
+  "author": "wxyz-abcd <mail.api.test.1.1.1@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Kirby-org/poyo",
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
